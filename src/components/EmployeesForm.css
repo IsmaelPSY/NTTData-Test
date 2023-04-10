@@ -1,0 +1,31 @@
+.em-box-b-sec-form {
+    display: grid;
+    grid-gap: 20px;
+}
+
+.em-box-b-sec-form-div {
+    display: flex;
+    gap: 5px;
+    flex-direction: column;   
+}
+
+.em-box-b-sec-form-div.submit-sect{
+    flex-direction: row;
+}
+
+.em-box-b-sec-form-input {
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.em-box-b-sec-form-input-submit {
+    width: 100px;
+    text-align: center;
+    border: none ;
+    border-radius: 5px;
+}
+
+.em-box-b-sec-form-input-submit:hover {
+    cursor: pointer;
+}

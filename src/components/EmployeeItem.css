@@ -1,0 +1,23 @@
+.em-box-b-t-td-btn-sect {
+    text-align: center;
+}
+
+.em-box-b-t-td-btn {
+    border: none;
+}
+
+.em-box-b-t-td-btn.edit:hover{
+    background-color: #86e8c7;
+}
+
+.em-box-b-t-td-btn.delete:hover{
+    background-color: #f37650;
+}
+
+.em-box-b-t-td-btn:hover {
+    cursor: pointer;
+}
+.em-box-b-t-td {
+    border: 1px solid #f7eeee;
+    padding: 4px;
+}

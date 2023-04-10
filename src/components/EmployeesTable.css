@@ -1,0 +1,16 @@
+.em-box-b-t-wrapper {
+    height: 300px;
+    overflow: auto;
+}
+
+.em-box-b-t {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.em-box-b-t-th {
+    text-align: start;
+    border: 1px solid #f7eeee;
+    padding: 4px;
+    background-color: #ededed;
+}
